@@ -1,0 +1,6 @@
+01:25:01.320 [main] DEBUG testcases.ValidateLoginTest - Browser Launched
+01:25:04.500 [main] DEBUG testcases.ValidateLoginTest - testLoginLink Test Case Validated
+01:25:04.624 [main] INFO  testcases.ValidateLoginTest - Driver closed for testLoginLink
+12:17:57.961 [main] INFO  testcases.ValidateLoginTest - Driver Initialised testSearch
+12:18:18.832 [main] INFO  testcases.ValidateLoginTest - Driver closed for testSearch
+12:18:28.206 [main] INFO  testcases.ValidateLoginTest - Driver Initialised testSearch

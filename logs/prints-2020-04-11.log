@@ -1,0 +1,6 @@
+19:10:29.887 [main] INFO  testcases.ValidateLoginTest - Driver closed for testSearch
+19:10:40.230 [main] INFO  testcases.ValidateLoginTest - Driver Initialised for testLoginLink
+19:11:01.130 [main] INFO  testcases.ValidateLoginTest - Driver closed for testLoginLink
+21:39:16.947 [main] INFO  testcases.ValidateLoginTest - Driver Initialised testSearch
+21:39:47.794 [main] INFO  testcases.ValidateLoginTest - Driver closed for testSearch
+21:39:57.632 [main] INFO  testcases.ValidateLoginTest - Driver Initialised testSearch
